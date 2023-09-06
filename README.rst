@@ -7,3 +7,11 @@ with some basic Sphinx docs.
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+0.0.0
+-----
+``06-09-2023``
+
+* Cấu hình tiêu đề.
+* Viết nội dung tổng quan.
+* Cấu hình build PDF và EPUB.

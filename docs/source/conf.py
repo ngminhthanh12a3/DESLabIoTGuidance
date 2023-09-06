@@ -1,13 +1,17 @@
 # Configuration file for the Sphinx documentation builder.
 
+# 
+import os,sys
+sys.path.insert(0,os.path.abspath('../..'))
+
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DESLab IoT Training'
+copyright = '2023, Thanh'
+author = 'Nguyen Vu Minh Thanh'
 
-release = '0.1'
-version = '0.1.0'
+# release = '0.1'
+# version = '0.1.0'
 
 # -- General configuration
 
