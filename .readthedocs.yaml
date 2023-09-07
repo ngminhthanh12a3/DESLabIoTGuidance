@@ -8,7 +8,7 @@ build:
     # latexmk
     - texlive-latex-recommended
     - texlive-fonts-recommended
-    - tex-gyre (if latex_engine left to default)
+    - tex-gyre
     - texlive-latex-extra
     - latexmk
     - texlive-lang-cyrillic
