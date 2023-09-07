@@ -4,6 +4,15 @@ build:
   os: 'ubuntu-22.04'
   tools:
     python: '3.10'
+  apt_packages:
+    # latexmk
+    - texlive-latex-recommended
+    - texlive-fonts-recommended
+    - tex-gyre (if latex_engine left to default)
+    - texlive-latex-extra
+    - latexmk
+    - texlive-lang-cyrillic
+    - texlive-lang-other
 
 python:
   install:
