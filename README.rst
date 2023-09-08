@@ -13,7 +13,7 @@ https://docs.readthedocs.io/en/stable/tutorial/
 ``07-09-2023``
 
 * Cấu hình latexpdf tiếng Việt.
-
+* Viết nội dung tổng quan.
 
 0.0.0
 -----

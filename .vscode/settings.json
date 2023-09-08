@@ -2,5 +2,7 @@
   "esbonio.sphinx.buildDir": "${workspaceFolder}/docs/build/html",
   "esbonio.sphinx.confDir": "${workspaceFolder}/docs/source",
   "esbonio.sphinx.srcDir": "${workspaceFolder}/docs/source",
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "livePreview.autoRefreshPreview": "On Changes to Saved Files",
+  "makefile.makefilePath": "${workspaceFolder}/docs"
 }
