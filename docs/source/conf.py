@@ -57,3 +57,5 @@ latex_elements = {
 }
 latex_use_xindy = True
 language = 'vi'
+
+html_extra_path = ['extra']
