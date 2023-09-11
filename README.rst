@@ -8,6 +8,12 @@ Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
 
+0.2.0
+-----
+``09-09-2023``
+
+* Viết các khái niệm tổng quan về IoT
+
 0.1.0
 -----
 ``07-09-2023``

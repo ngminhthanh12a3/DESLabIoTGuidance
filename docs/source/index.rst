@@ -8,6 +8,7 @@ DESLab IoT Training
    :caption: Nội dung
 
    overview
+   IoTOverview
 
 .. _AEWS: https://nshopvn.com/product/arduino-esp8266-wifi-shield/
 
