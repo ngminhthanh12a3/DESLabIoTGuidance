@@ -8,6 +8,13 @@ Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
 
+0.3.0
+-----
+``09-09-2023``
+
+* Viết nội dung thực hiện phần cứng.
+
+
 0.2.0
 -----
 ``09-09-2023``
