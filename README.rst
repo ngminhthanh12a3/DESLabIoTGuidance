@@ -8,6 +8,11 @@ Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
 
+0.4.0
+``16-09-2023``
+
+- Viết nội dung training về Arduino IDE 2.2.1
+
 0.3.0
 -----
 ``09-09-2023``

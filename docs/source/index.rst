@@ -11,6 +11,16 @@ DESLab IoT Training
    IoTOverview
    implement
 
+.. note::
+   Do có nhiều lỗi phát sinh khi dùng Arduino Cloud, nội dung training dùng Arduino IDE sẽ được trình bày theo nội dung dưới đây.
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Nội dung với Arduino IDE
+
+   overviewAIDE
+   implementAIDE
+
 .. _AEWS: https://nshopvn.com/product/arduino-esp8266-wifi-shield/
 
 .. _LM35: https://www.ti.com/product/LM35?utm_source=google&utm_medium=cpc&utm_campaign=asc-sens-null-44700045336317707_prodfolderdynamic-cpc-pf-google-soas_int&utm_content=prodfolddynamic&ds_k=DYNAMIC+SEARCH+ADS&DCM=yes&gclid=CjwKCAjw6eWnBhAKEiwADpnw9ojoX6iAxUEk_AFZ_HcGg9V-IfEd6wjS7kg2NNrGZXOVoqw8k548TxoCYKQQAvD_BwE&gclsrc=aw.ds
