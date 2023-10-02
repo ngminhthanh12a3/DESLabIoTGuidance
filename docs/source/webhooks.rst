@@ -13,7 +13,7 @@ Môi trường làm việc
 
 Ngoài ra, các bước thực hiện bên dưới, sẽ dựa trên hoạt động đã thực hiện ở phần :ref:`thực hiện hệ thống <phan-thuc-hien-he-thong>`.
 
-Phần 2: Các bước thực hiện để cấu hình điều khiển led thông qua cloud
+Phần 1: Các bước thực hiện để cấu hình điều khiển led thông qua cloud
 --------------------------------------------------------------------
 
 1. Thiết lập bo mạch
