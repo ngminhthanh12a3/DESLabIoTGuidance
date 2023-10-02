@@ -1,3 +1,5 @@
+.. _phan-thuc-hien-he-thong:
+
 Thực hiện hệ thống
 ==================
 

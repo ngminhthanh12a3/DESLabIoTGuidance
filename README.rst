@@ -8,7 +8,14 @@ Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
 
+0.5.0
+-----
+``02-10-2023``
+
+- Setup notification when a property of your Thing changes. (https://docs.arduino.cc/arduino-cloud/features/webhooks)
+
 0.4.0
+-----
 ``16-09-2023``
 
 - Viết nội dung training về Arduino IDE 2.2.1
